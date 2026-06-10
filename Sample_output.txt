@@ -1,0 +1,256 @@
+Output View 
+
+==================================
+   STUDENT MANAGEMENT SYSTEM
+==================================
+
+-------------- MENU --------------
+1. Add Student
+2. View Students
+3. Update Marks
+4. Delete Student
+5. Search Student
+6. Show Total Students
+7. Show Class Average
+8. Show Topper
+9. Exit
+
+Enter your choice : 1
+
+ Student Data -- Add Process --
+
+
+Enter Student ID : 101
+Enter Student Name : Pravin
+Enter Marks : 95
+
+Student added successfully.
+
+Add another student? (Y/N): y
+
+Enter Student ID : 102
+Enter Student Name : Naveen
+Enter Marks : 65
+
+Student added successfully.
+
+Add another student? (Y/N): y
+
+Enter Student ID : 103
+Enter Student Name : Kaveen
+Enter Marks : 80
+
+Student added successfully.
+
+Add another student? (Y/N): y
+
+Enter Student ID : 104
+Enter Student Name : Nishok
+Enter Marks : 95
+
+Student added successfully.
+
+Add another student? (Y/N): n
+
+-------------- MENU --------------
+1. Add Student
+2. View Students
+3. Update Marks
+4. Delete Student
+5. Search Student
+6. Show Total Students
+7. Show Class Average
+8. Show Topper
+9. Exit
+
+Enter your choice : 2
+
+ Student Data -- View Process --
+
+
+
+------------------------------------------------
+ID         Name                 Marks      Grade
+------------------------------------------------
+101        Pravin               95         A
+102        Naveen               65         C
+103        Kaveen               80         B
+104        Nishok               95         A
+------------------------------------------------
+
+
+-------------- MENU --------------
+1. Add Student
+2. View Students
+3. Update Marks
+4. Delete Student
+5. Search Student
+6. Show Total Students
+7. Show Class Average
+8. Show Topper
+9. Exit
+
+Enter your choice : 3
+
+ Student Data -- UpDate Process --
+
+Enter Student ID : 103
+Enter New ID : 103
+Enter New Name : Kavin
+Enter New Marks : 75
+
+Student updated successfully.
+
+Update another student? (Y/N): n
+
+-------------- MENU --------------
+1. Add Student
+2. View Students
+3. Update Marks
+4. Delete Student
+5. Search Student
+6. Show Total Students
+7. Show Class Average
+8. Show Topper
+9. Exit
+
+Enter your choice : 4
+
+ Student Data -- Delete Process --
+
+Enter Student ID : 102
+Are you sure you want to delete? (Y/N) : n
+Delete operation cancelled.
+
+-------------- MENU --------------
+1. Add Student
+2. View Students
+3. Update Marks
+4. Delete Student
+5. Search Student
+6. Show Total Students
+7. Show Class Average
+8. Show Topper
+9. Exit
+
+Enter your choice : 2
+
+ Student Data -- View Process --
+
+
+
+------------------------------------------------
+ID         Name                 Marks      Grade     
+------------------------------------------------
+101        Pravin               95         A
+102        Naveen               65         C         
+103        Kavin                75         B
+104        Nishok               95         A
+------------------------------------------------
+
+
+-------------- MENU --------------
+1. Add Student
+2. View Students
+3. Update Marks
+4. Delete Student
+5. Search Student
+6. Show Total Students
+7. Show Class Average
+8. Show Topper
+9. Exit
+
+Enter your choice : 5
+
+ Student Data -- Search Process --
+
+
+Search By:
+1. ID
+2. Name
+Enter choice : 1
+Enter Student ID : 101
+
+----------------------------------
+ Student Found
+----------------------------------
+ID    : 101
+Name  : Pravin
+Marks : 95
+Grade : A
+----------------------------------
+
+-------------- MENU --------------
+1. Add Student
+2. View Students
+3. Update Marks
+4. Delete Student
+5. Search Student
+6. Show Total Students
+7. Show Class Average
+8. Show Topper
+9. Exit
+
+Enter your choice : 6
+
+ Student Data -- Show Table Process --
+
+
+Total Students : 4
+
+-------------- MENU --------------
+1. Add Student
+2. View Students
+3. Update Marks
+4. Delete Student
+5. Search Student
+6. Show Total Students
+7. Show Class Average
+8. Show Topper
+9. Exit
+
+Enter your choice : 7
+
+ Student Data -- Show Class Average  Process --
+
+
+Class Average Marks : 82.5
+
+-------------- MENU --------------
+1. Add Student
+2. View Students
+3. Update Marks
+4. Delete Student
+5. Search Student
+6. Show Total Students
+7. Show Class Average
+8. Show Topper
+9. Exit
+
+Enter your choice : 8
+
+ Student Data -- Show Topper Process --
+
+
+Topper Student
+Name  : Pravin
+Marks : 95
+Grade : A
+
+-------------- MENU --------------
+1. Add Student
+2. View Students
+3. Update Marks
+4. Delete Student
+5. Search Student
+6. Show Total Students
+7. Show Class Average
+8. Show Topper
+9. Exit
+
+Enter your choice : 9
+
+ ********************************************************
+
+
+(: Thank you for using the system :)
