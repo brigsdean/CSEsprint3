@@ -6,7 +6,7 @@ This software is a Student Management System written in Java. The application al
 
 The purpose of writing this software was to gain hands-on experience with Java syntax, object-oriented programming concepts, user input handling, conditional statements, loops, methods, and the ArrayList collection class. Through this project, I improved my understanding of how data can be stored, manipulated, and displayed within a larger Java application.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video] https://youtube.com/shorts/kHc02AFNvj8?feature=share
 
 # Development Environment
 
